@@ -2,11 +2,8 @@
 
 # Hey there, I'm Pablo Almanza 👾
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Game+Dev+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg)
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Game+Dev+Enthusiast;Always+Building+Something+New)](https://git.io/typing-svg) </div>
 ---
-
 ### 🧑‍💻 About Me
 
 ```typescript
