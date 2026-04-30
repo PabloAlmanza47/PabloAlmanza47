@@ -9,7 +9,7 @@
 ```typescript
 const pablo = {
   role:       "Software Engineer",
-  location:   "Texas, USA",
+  location:   "Dallas, Texas, USA",
   interests:  ["Web Dev", "Game Dev", "Open Source"],
   currentlyBuilding: [
     "🎮 A dungeon crawler roguelike in Godot",
