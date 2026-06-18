@@ -71,7 +71,7 @@ const pablo = {
   <tr>
     <td align="center">🤝</td>
     <td><b><a href="REPLACE_WITH_SHPE_CONNECT_LINK">SHPE Connect</a></b></td>
-    <td>Add a one-line description here</td>
+    <td>Connect with TAMU SHPE</td>
   </tr>
   <tr>
     <td align="center">🌐</td>
