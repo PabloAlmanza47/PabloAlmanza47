@@ -26,32 +26,11 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const pablo = {
-  education: "Computer Science @ Texas A&M University",
-  minors: ["Mathematics", "Engineering Project Management"],
+Computer Science student at Texas A&M University interested in **full-stack development, backend systems, and developer tools**.
 
-  experience: [
-    "Software Developer @ Frogslayer",
-    "Software Engineer @ PowerDB",
-    "Incoming Software Engineering Intern @ PwC — Summer 2027",
-  ],
+I enjoy building software from end to end — designing interfaces, APIs, databases, and the systems behind them.
 
-  interests: [
-    "Full-Stack Development",
-    "Backend Systems",
-    "Developer Tools",
-    "Game Development",
-  ],
-
-  currentlyBuilding: [
-    "🤝 SHPE Connect",
-    "🖥️ Terminal Home",
-  ],
-
-  goal: "Build useful software that makes people's work and communities better.",
-};
-```
+Currently building **SHPE Connect** and **Terminal Home** while continuing to grow my software engineering and systems experience.
 
 ---
 
@@ -59,7 +38,7 @@ const pablo = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤝 [SHPE Connect](https://shpe-connect.vercel.app/)
 
@@ -72,7 +51,7 @@ Features member profiles, resumes, sponsor discovery, career opportunities, and 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🖥️ [Terminal Home](https://github.com/PabloAlmanza47/Terminal-Home)
 
@@ -87,7 +66,7 @@ Includes project navigation, live Git information, search, environment tooling, 
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 [TAMU SHPE Website](https://tamushpe.org/)
 
@@ -100,7 +79,7 @@ Focused on improving chapter communication, events, resources, and member engage
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 [Personal Portfolio](https://pablosweb.netlify.app/)
 
@@ -155,11 +134,11 @@ A continually evolving showcase of what I'm building and learning.
 
 ## 🌱 What I'm Working On
 
-- Expanding **SHPE Connect** into a more complete career and networking platform
-- Building **Terminal Home** into a polished developer productivity tool
-- Improving my backend, systems, and database knowledge
-- Working through data structures and algorithms for software engineering interviews
-- Experimenting with new tools, frameworks, and project ideas
+- 🤝 Expanding **SHPE Connect** into a more complete career and networking platform
+- 🖥️ Building **Terminal Home** into a polished developer productivity tool
+- ⚙️ Strengthening my backend, systems, and database knowledge
+- 🧠 Working through data structures and algorithms for software engineering interviews
+- 🧪 Experimenting with new tools, frameworks, and project ideas
 
 ---
 
