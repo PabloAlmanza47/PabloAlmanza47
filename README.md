@@ -62,23 +62,40 @@ The official website for Texas A&M's SHPE chapter, serving 500+ members. I led w
 
 ## Toolbox
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,ts,js,python,cpp,java,html,css" alt="C#, TypeScript, JavaScript, Python, C++, Java, HTML, CSS" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=dotnet,angular,react,nextjs,tailwind,prisma" alt=".NET, Angular, React, Next.js, Tailwind CSS, Prisma" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgres,vercel,git,github,githubactions,linux,neovim,figma" alt="PostgreSQL, Vercel, Git, GitHub, GitHub Actions, Linux, Neovim, Figma" />
-
-<br><br>
-
-`SQL` · `Entity Framework` · `SQL Server` · `Neon` · `tmux`
-
-</div>
+<table>
+<tr>
+<td valign="middle"><b>Languages</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=cs,ts,js,python,cpp,java,html,css" alt="C#, TypeScript, JavaScript, Python, C++, Java, HTML, CSS" height="40" />
+<br>
+<sub>also</sub> <code>SQL</code>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Frameworks</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=dotnet,angular,react,nextjs,tailwind,prisma" alt=".NET, Angular, React, Next.js, Tailwind CSS, Prisma" height="40" />
+<br>
+<sub>also</sub> <code>Entity Framework</code>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Data&nbsp;&amp;&nbsp;infrastructure</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres,vercel" alt="PostgreSQL, Vercel" height="40" />
+<br>
+<sub>also</sub> <code>SQL Server</code> <code>Neon</code>
+</td>
+</tr>
+<tr>
+<td valign="middle"><b>Developer&nbsp;tools</b></td>
+<td valign="middle">
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,neovim,figma" alt="Git, GitHub, GitHub Actions, Linux, Neovim, Figma" height="40" />
+<br>
+<sub>also</sub> <code>tmux</code>
+</td>
+</tr>
+</table>
 
 <br>
 
