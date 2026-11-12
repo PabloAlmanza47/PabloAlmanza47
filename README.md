@@ -101,8 +101,4 @@ The official website for Texas A&M's SHPE chapter, serving 500+ members. I led w
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pabloalmanza/">
-  <img src="./assets/footer.svg" alt="Building software that helps people connect, create, and work more effectively." width="100%" />
-</a>
-
 </div>
