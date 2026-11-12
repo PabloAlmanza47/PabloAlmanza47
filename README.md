@@ -1,58 +1,85 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Pablo Almanza — Software Engineer and Computer Science student at Texas A&M, class of 2028" width="100%" />
+<img src="./assets/header.svg" alt="Pablo Almanza — software engineer and Computer Science student at Texas A&M, Class of 2028" width="100%" />
 
-**Software engineer · Computer Science @ Texas A&M ’28**
+<br>
 
-I build full-stack products and developer tools, from community platforms to the terminal environments I use every day.
+**SOFTWARE ENGINEER** &nbsp; / &nbsp; **TEXAS A&M COMPUTER SCIENCE '28**
 
-[Portfolio](https://madebypablo.dev/) · [LinkedIn](https://www.linkedin.com/in/pabloalmanza/)
+I build full-stack products and developer tools — from platforms for engineering communities to the terminal software I use myself.
+
+**[Portfolio](https://madebypablo.dev/)** &nbsp; · &nbsp; **[LinkedIn](https://www.linkedin.com/in/pabloalmanza/)** &nbsp; · &nbsp; **[Selected work](#selected-work)**
 
 </div>
 
 ---
 
-### 01 / NOW
+### `$ status --current`
 
-- **PowerDB (Megger)** — Software Engineer working across C#/.NET, Angular, and SQL Server
-- **SHPE Connect** — Building a career and networking platform for Texas A&M SHPE
-- **Terminal Home** — Developing a reusable, keyboard-first workspace manager for other developers
+> **WORK** &nbsp; Software Engineer at **PowerDB (Megger)** — C#/.NET, Angular, SQL Server  
+> **BUILDING** &nbsp; **SHPE Connect** — a career and networking platform for Texas A&M SHPE  
+> **SHIPPING** &nbsp; **Terminal Home** — a reusable workspace manager for developers
 
-### 02 / SELECTED WORK
+<br>
 
-**01 — [SHPE Connect](https://shpe-connect.vercel.app/)**  
-*One platform for an engineering community.*
+## Selected work
 
-Profiles, member discovery, career opportunities, sponsors, and targeted notifications for Texas A&M SHPE. Includes role-based access controls and PostgreSQL-backed member data.
-
-<sub>`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Better Auth`</sub>
-
-**02 — [Terminal Home](https://github.com/PabloAlmanza47/Terminal-Home)**  
-*Your development environment, right where you left it.*
-
-A terminal workspace manager for Linux and WSL that discovers projects, builds tmux layouts, and resumes or recreates saved sessions. Supports reusable templates and remote SSH workflows, with automated checks in GitHub Actions.
-
-<sub>`Python` · `Textual` · `tmux` · `pytest` · `GitHub Actions`</sub>
-
-**03 — [Texas A&M SHPE Website](https://tamushpe.org/)**  
-*A home for a chapter of 500+ members.*
-
-Led development of the chapter website from May 2025 to May 2026 and ran weekly workshops that introduced 10+ contributors to Git, the codebase, and collaborative development.
-
-<sub>`Next.js` · `React` · `TypeScript` · `Tailwind CSS`</sub>
-
-### 03 / TOOLBOX
-
-| | |
-| :-- | :-- |
-| **Languages** | TypeScript, JavaScript, C#, Python, C++, Java, SQL |
-| **Applications** | React, Next.js, Angular, .NET, Tailwind CSS |
-| **Data & infrastructure** | PostgreSQL, SQL Server, Prisma, Neon, Vercel |
-| **Developer tools** | Git, Linux, tmux, Neovim, GitHub Actions |
+*Three projects. Three different problems worth solving.*
 
 ---
 
+### 01 / [SHPE Connect](https://shpe-connect.vercel.app/)
+
+**A digital home for an engineering community.**
+
+Member profiles, searchable discovery, career opportunities, sponsors, and targeted notifications for Texas A&M SHPE. Built with role-based access controls and a PostgreSQL-backed data model.
+
+`Next.js` &nbsp; `TypeScript` &nbsp; `PostgreSQL` &nbsp; `Prisma` &nbsp; `Better Auth`
+
+**[Explore SHPE Connect](https://shpe-connect.vercel.app/)**
+
+---
+
+### 02 / [Terminal Home](https://github.com/PabloAlmanza47/Terminal-Home)
+
+**Open a project. Pick up exactly where you left off.**
+
+A keyboard-first workspace manager for Linux and WSL. Discovers projects, creates configurable tmux layouts, and resumes or rebuilds saved workspaces. Supports reusable templates, SSH workflows, and automated CI checks.
+
+`Python` &nbsp; `Textual` &nbsp; `tmux` &nbsp; `pytest` &nbsp; `GitHub Actions`
+
+**[View the source](https://github.com/PabloAlmanza47/Terminal-Home)**
+
+---
+
+### 03 / [Texas A&M SHPE Website](https://tamushpe.org/)
+
+**Built for 500+ members. Built with the next generation of contributors.**
+
+Led development of the chapter website from May 2025 to May 2026. Ran weekly workshops that introduced 10+ contributors to Git, the codebase, and collaborative development.
+
+`Next.js` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `Tailwind CSS`
+
+**[Visit the website](https://tamushpe.org/)**
+
+---
+
+### `$ tools --list`
+
+| Focus | What I work with |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, C#, Python, C++, Java, SQL |
+| **Building** | Next.js, React, Angular, .NET, Tailwind CSS |
+| **Data** | PostgreSQL, SQL Server, Prisma, Neon |
+| **Workflow** | Linux, Git, tmux, Neovim, GitHub Actions, Vercel |
+
+<br>
+
 <div align="center">
+
+**Have something interesting to build?** &nbsp; [Let's connect.](https://www.linkedin.com/in/pabloalmanza/)
+
+<br>
 
 <a href="https://www.linkedin.com/in/pabloalmanza/"><img src="./assets/footer.svg" alt="Building software that helps people connect, create, and work more effectively." width="100%" /></a>
 
